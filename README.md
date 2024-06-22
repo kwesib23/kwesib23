@@ -15,6 +15,8 @@ Welcome to my cybersecurity portfolio! This repository contains various projects
 
 I am Emmanuel Boafo-Asare, a dedicated IT professional with a strong foundation in technical support and a burgeoning career in cybersecurity. With a rich background in customer service, troubleshooting, and log review, I have honed my skills in diverse environments, ranging from large corporations to government agencies.
 
+My strengths in troubleshooting, log analysis, and technical support, combined with my commitment to continuous improvement and customer service, drive my passion for cybersecurity. I value integrity, collaboration, and innovation, which guide my approach to enhancing security measures. My dedication to protecting digital assets and my proficiency in network security, incident response, and ethical hacking will support organizations in achieving their security goals by mitigating risks and fortifying their defenses against cyber threats.
+
 ### Education and Training
 
 I completed the Year Up program in Seattle, an intensive technical training and career development initiative. This program equipped me with college-level coursework and professional skills, with specialized training in Network System Administration, IT Helpdesk operations, and Business Communications. My dedication to bridging the opportunity divide is reflected in my involvement as a student ambassador.
